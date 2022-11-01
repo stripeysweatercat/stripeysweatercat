@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Perigon
+#### A highly underskilled developer
 
-<!--
-**stripeysweatercat/stripeysweatercat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A lot of what I do is just for fun, don't expect anything useful or noteworthy to come out of me xP
 
-Here are some ideas to get you started:
+Skills: JS? pretty much it
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on SwagginBot 
+- 🌱 I’m currently learning more than basic JS 
+- 😄 Pronouns: she/her or they/them i never really know 
+- ⚡ Fun fact: I love to ditch projects out of nowhere if i get bored  
+
+
+
+
