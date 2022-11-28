@@ -5,7 +5,7 @@ A lot of what I do is just for fun, don't expect anything useful or noteworthy t
 
 Skills: JS? pretty much it
 
-- 🔭 I’m currently working on `file-auto-create`
+- 🔭 I’m currently working on `file-auto-create` adn `swaggin-bot-py`
 - 🌱 I’m currently learning Python / GNU Linux x86 Assembly language 
 - 😄 Pronouns: she/her or they/them i never really know 
 - ⚡ Fun fact: I love to ditch projects out of nowhere if i get bored  
